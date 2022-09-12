@@ -1,4 +1,4 @@
-Create a e-commerce site consisting of the following pages:
+Create an e-commerce site consisting of the following pages:
 
 *    Display at least three items that can be purchased along with a quantity field and price for each. Provide a submit button that sends the order to the server for processing.
 *    Create an order summary page based on the quantities chosen on the first page. Display a subtotal for confirmation. When the user confirms the purchase they are sent to the tax calculation page.
